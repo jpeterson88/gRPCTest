@@ -3,3 +3,15 @@ C:\github\grpcTest\Grpc.Server\bin\Debug\Grpc.Server.pdb
 C:\github\grpcTest\Grpc.Server\obj\Debug\Grpc.Server.csprojResolveAssemblyReference.cache
 C:\github\grpcTest\Grpc.Server\obj\Debug\Grpc.Server.dll
 C:\github\grpcTest\Grpc.Server\obj\Debug\Grpc.Server.pdb
+C:\github\grpcTest\Grpc.Server\bin\Debug\grpc_csharp_ext.x86.dll
+C:\github\grpcTest\Grpc.Server\bin\Debug\grpc_csharp_ext.x64.dll
+C:\github\grpcTest\Grpc.Server\bin\Debug\libgrpc_csharp_ext.x86.so
+C:\github\grpcTest\Grpc.Server\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\github\grpcTest\Grpc.Server\bin\Debug\libgrpc_csharp_ext.x86.dylib
+C:\github\grpcTest\Grpc.Server\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\github\grpcTest\Grpc.Server\bin\Debug\Google.Protobuf.dll
+C:\github\grpcTest\Grpc.Server\bin\Debug\Grpc.Core.dll
+C:\github\grpcTest\Grpc.Server\bin\Debug\System.Interactive.Async.dll
+C:\github\grpcTest\Grpc.Server\bin\Debug\Google.Protobuf.xml
+C:\github\grpcTest\Grpc.Server\bin\Debug\Grpc.Core.xml
+C:\github\grpcTest\Grpc.Server\bin\Debug\System.Interactive.Async.xml
