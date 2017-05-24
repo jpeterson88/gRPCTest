@@ -1,0 +1,5 @@
+C:\github\grpcTest\Grpc.Server\bin\Debug\Grpc.Server.dll
+C:\github\grpcTest\Grpc.Server\bin\Debug\Grpc.Server.pdb
+C:\github\grpcTest\Grpc.Server\obj\Debug\Grpc.Server.csprojResolveAssemblyReference.cache
+C:\github\grpcTest\Grpc.Server\obj\Debug\Grpc.Server.dll
+C:\github\grpcTest\Grpc.Server\obj\Debug\Grpc.Server.pdb
